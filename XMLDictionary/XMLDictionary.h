@@ -29,7 +29,7 @@
 //  3. This notice may not be removed or altered from any source distribution.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wobjc-missing-property-synthesis"
 
