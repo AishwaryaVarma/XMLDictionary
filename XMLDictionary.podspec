@@ -1,4 +1,5 @@
 Pod::Spec.new do |s|
+  
   s.name         = "XMLDictionary"
   s.version      = "1.4"
   s.license      = { :type => 'zlib', :file => 'LICENCE.md' }
@@ -10,4 +11,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.ios.deployment_target = '4.3'
   s.osx.deployment_target = '10.6'
+  ##
 end
